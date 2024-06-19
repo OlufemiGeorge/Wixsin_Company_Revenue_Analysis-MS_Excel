@@ -12,3 +12,14 @@ The goal of this project is to analyze sales data in order to find trends, patte
 4. What is the contribution of each state to the total revenue of the company?
 5. What segment has the highest amount of revenue?
 6. What are the top 5 selling products?
+
+## Skills Demonstrated
+The Following Microsoft Excel features were incorporated:
+- Data Cleaning
+- Data Consolidation with Index match
+- Data Modelling with Power Pivot
+- Pivot
+- Visualisation chats
+- Slicer
+
+## Data Sourcing 
