@@ -34,6 +34,9 @@ Nevertheless, adopting Power Pivot—which eliminates the requirement for data c
 ## Modellining
 No relationship was derive automatically so i had to create relationship Automatically 
 
+ Adjusted model                                 |    Auto-model 
+:----------------------------------------------:|:---------------------------------------------:
+![]()                                           |![]()
 
 The model is a star schema.
 There are 4 dimension tables.
