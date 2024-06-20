@@ -26,5 +26,14 @@ The Following Microsoft Excel features were incorporated:
 This revenue dataset was generated online and saved as a CSV file. The four sheets that make up the dataset are titled Location, Manufacturer, Sales, and Products. contains details on sales transactions, including dates, goods, amounts, costs, and client information. To do insightful analysis, one must be aware of the dataset's structure.
 
 ## Data Transaformation 
-After loading the dataset into Ms. Excel, the dataset was inspected. In order to utilize Pivot, the Excel spreadsheet's four separate spreadsheets or tables have to be combined into a single table using Index Match. A table named sales_table was created from the spreadsheet's structure. Certain columns, like Month and Week, which I developed but extracted from the Date column, were not included in the spreadsheet. The dataset comprises 1412 rows and 14 columns, with a total revenue of $9,826,183 and 1430 total units.
+After loading the dataset into Ms. Excel, the dataset was inspected. In order to utilize Pivot, the Excel spreadsheet's four separate spreadsheets or tables have to be combined into a single table using Index Match. A table named sales_table was created from the spreadsheet's structure. Certain columns, like Month and Week, which I developed but extracted from the Date column, were not included in the spreadsheet. 
+The dataset comprises 1412 rows and 14 columns, with a total revenue of $9,826,183 and 1430 total units.
+
 Nevertheless, adopting Power Pivot—which eliminates the requirement for data consolidation—was also significantly faster. I was able to jump right into pivot and analysis using Power Pivot and data modeling. 
+
+## Modellining
+No relationship was derive automatically so i had to create relationship Automatically 
+
+
+The model is a star schema.
+There are 4 dimension tables.
