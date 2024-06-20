@@ -1,5 +1,5 @@
 # Wixsin Company Revenue Analysis
-
+![](Dashboard.jpg)
 ## Introduction
 The goal of this project is to analyze sales data in order to find trends, patterns, and KPIs that can be used to inform business decisions. An interactive Excel dashboard presents and visualizes the analysis results for simple exploration and comprehension.
 
@@ -31,12 +31,18 @@ The dataset comprises 1412 rows and 14 columns, with a total revenue of $9,826,1
 
 Nevertheless, adopting Power Pivot—which eliminates the requirement for data consolidation—was also significantly faster. I was able to jump right into pivot and analysis using Power Pivot and data modeling. 
 
-## Modellining
+   Original Data                                 |    Consolidated Data 
+:----------------------------------------------:|:---------------------------------------------:
+![](RAW_DATA_T1.jpg)                            |![](Consolidated.jpg)
+
+## Data Modellining
 No relationship was derive automatically so i had to create relationship Automatically 
 
  Adjusted model                                 |    Auto-model 
 :----------------------------------------------:|:---------------------------------------------:
-![]()                                           |![]()
+![](After_Modelling.jpg)                                           |![](Before_Modellling.jpg)
 
 The model is a star schema.
 There are 4 dimension tables.
+
+## Analysis and Visualzation
