@@ -45,4 +45,34 @@ No relationship was derive automatically so i had to create relationship Automat
 The model is a star schema.
 There are 4 dimension tables.
 
-## Analysis and Visualzation
+## Visualzation
+The report comprises of one page
+
+### WixSin Company Revenue Interactive Dashboard
+![](Wixzin.gif)
+
+_You can interact with the report [here]()_
+
+Features
+
+In order to make the visualization dynamic and allow users to filter and drill down to certain State, Segment, Category, Month and Days of the Week filter have been added to the report's right side.
+
+## Analysis
+-	This evaluation includes sales data from 2020 to 2021.
+-	During the review period, Adidas US operated in 52 US cities, 50 states, and 5 regions.
+-	Adidas US has six retailers.
+-	There are 6 products
+
+
+## The Report
+
+Findings
+-   In-store sales are Adidas' best-selling strategy in the US, accounting for 40% of total sales between 2020 and 2021. 
+-   With the highest total sales of $242,964,333 throughout the two years under evaluation, West Gear is the best retailer.
+-   During the two years under review, New York had the highest total sales of $64,229,039 among the states.
+-   The sales trend from 2020 to 2021 indicates a notable increase in sales in 2021, with a notable surge in online sales in the southeast and south-central regions.
+
+Suggestions / Recommendations 
+-   When it comes to online sales, other regions will be encourage to adopt the South and Southeast's strategy in order to boost online sales there as well.
+-   To boost online sales, invest in focused digital marketing initiatives, upgrade the online sales platform, and improve user experience.
+-   To improve marketing messaging and product offerings, track key performance metrics, gather customer insights, and continuously monitor sales performance.
