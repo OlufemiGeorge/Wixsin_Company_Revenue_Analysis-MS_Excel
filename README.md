@@ -67,12 +67,21 @@ In order to make the visualization dynamic and allow users to filter and drill d
 ## The Report
 
 Findings
--   In-store sales are Adidas' best-selling strategy in the US, accounting for 40% of total sales between 2020 and 2021. 
--   With the highest total sales of $242,964,333 throughout the two years under evaluation, West Gear is the best retailer.
--   During the two years under review, New York had the highest total sales of $64,229,039 among the states.
--   The sales trend from 2020 to 2021 indicates a notable increase in sales in 2021, with a notable surge in online sales in the southeast and south-central regions.
+-   The revenue trend indicates a consistent increase in revenue from January to April, reaching a maximum of $2,233,854 May and June trends also indicate a decline.
+-   The company's daily revenue pattern shows that sales are highest on Mondays and lowest on Saturdays.
+-   The percentage of each category to total revenue also shows that, at 86.96%, urban contribute the most to revenue overall, while youth contribute the least, at 2.05%.
+-   According to the states' share of total revenue, Ontario contributes 31.7%, the greatest, while Quebec contributes the least, 2.65%.
+-   Total Revenue by Segment reveals that, with a total contribution of $3,883,552.48, Moderation is the segment with the largest contribution, while Regular has the lowest, at $161,355.60.
+-   Maximu UM-43 is the best-selling product, totaling $574,086.24.   
 
 Suggestions / Recommendations 
--   When it comes to online sales, other regions will be encourage to adopt the South and Southeast's strategy in order to boost online sales there as well.
--   To boost online sales, invest in focused digital marketing initiatives, upgrade the online sales platform, and improve user experience.
--   To improve marketing messaging and product offerings, track key performance metrics, gather customer insights, and continuously monitor sales performance.
+-   The company revenue were performing better in:  catergory like urban, state like Ontario and Alberta, Segment like Moderation. Company should observe close the business modules in this best performing area and duplicate in other area that need improvement.
+-   In states, Categories, Segment and areas that are underperforming, more sales strategies must to be put into place  
+
+The following sales strategies below should be considered:
+-   The company can continue to offer new products or services that cater to their target market and target low-income states and sectors (young, rural, and mixed).
+-   Company can also give discount on some of their products or services.
+-   The company can design a survey that consumers can complete online or in-store, and in certain cases, it won't take longer than five minutes.
+-   Company can also provide promotions such as buy one, get one half price.
+-   By examining the month that performs well in terms of weather, seasons, and retail locations, they may also examine and analyze the regions and categories that are performing well. 
+
